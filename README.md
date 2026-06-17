@@ -1,6 +1,6 @@
 # To-Do App
 
-Sistema de gerenciamento de tarefas em Python.
+Sistema simples com prioridades.
 
 ## Dupla
 - Dev A: [Beatriz Martins]
