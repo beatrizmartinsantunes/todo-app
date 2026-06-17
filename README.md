@@ -1,6 +1,6 @@
 # To-Do App
 
-App para tarefas com relatórios.
+Sistema de tarefas com prioridades e relatórios.
 
 ## Dupla
 - Dev A: [Beatriz Martins]
